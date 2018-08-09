@@ -3,3 +3,4 @@ Mongo-DB: IP_Address
 
 
 ElasticIP: DB1,DB2
+Flumeserversnodes
